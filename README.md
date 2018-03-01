@@ -1,2 +1,1 @@
-# Contabilidad 
-as
+# Contabilidad
