@@ -1,0 +1,17 @@
+https://social.msdn.microsoft.com/Forums/es-ES/a3054763-0146-4bbb-a4a3-cff3a9616683/como-instalar-una-aplicacion-visual-basic-net-con-sql-server-express-edition?forum=vbes
+
+Si tienes una palicacion desarrollada para usar una base de datos de sqlexpress... pues es facil.
+
+Agregaa tu proyecto un proyecto de instalacion.
+
+EN el proyecto de instalacion:
+
+1. agrega como prerequisito el SQLServer express...
+
+2. agrega a la carpeta de la aplicacion la base de datos a utilizar. (SI usaste otro SQL server y no el express en el desarollo, simplemente separa la base en el servidor sql server y saca una copia simple (NO Backup) y guardalo en cualquier carpeta de tu PC, y luego la agregas a tu proyecto de instalacion.)
+
+3. En la cadena de coneccion de tu aplicacion, as un attach a tu base de datos y listo...
+
+ 
+
+Suerte.

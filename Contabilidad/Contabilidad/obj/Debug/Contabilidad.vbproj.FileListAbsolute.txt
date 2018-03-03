@@ -1,0 +1,12 @@
+D:\Programacion\Contabilidad\Contabilidad\Contabilidad\bin\Debug\Contabilidad.exe.config
+D:\Programacion\Contabilidad\Contabilidad\Contabilidad\bin\Debug\Contabilidad.exe
+D:\Programacion\Contabilidad\Contabilidad\Contabilidad\bin\Debug\Contabilidad.pdb
+D:\Programacion\Contabilidad\Contabilidad\Contabilidad\bin\Debug\Contabilidad.xml
+D:\Programacion\Contabilidad\Contabilidad\Contabilidad\obj\Debug\Contabilidad.vbprojResolveAssemblyReference.cache
+D:\Programacion\Contabilidad\Contabilidad\Contabilidad\obj\Debug\Contabilidad.Form1.resources
+D:\Programacion\Contabilidad\Contabilidad\Contabilidad\obj\Debug\Contabilidad.Resources.resources
+D:\Programacion\Contabilidad\Contabilidad\Contabilidad\obj\Debug\Contabilidad.vbproj.GenerateResource.Cache
+D:\Programacion\Contabilidad\Contabilidad\Contabilidad\obj\Debug\Contabilidad.vbproj.CoreCompileInputs.cache
+D:\Programacion\Contabilidad\Contabilidad\Contabilidad\obj\Debug\Contabilidad.exe
+D:\Programacion\Contabilidad\Contabilidad\Contabilidad\obj\Debug\Contabilidad.xml
+D:\Programacion\Contabilidad\Contabilidad\Contabilidad\obj\Debug\Contabilidad.pdb
